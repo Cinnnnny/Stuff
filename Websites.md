@@ -20,3 +20,5 @@
 [DOOM](https://raz0red.github.io/webprboom/)
 
 [Infinite Craft](http://neal.fun/infinite-craft)
+
+[Infini-Editor](https://infinieditor.vercel.app/)
