@@ -1,4 +1,4 @@
-# Welcome to the new Stuff drive!
+# Welcome to the Stuff drive!
 Since the old one was found, I decided to move everything here.
 
 ⠀⠀⠀⠀⠀⠀⣀⣠⣤⣀⡀<br>
