@@ -1,4 +1,4 @@
-## Running Code In Console
+# Running Code In Console
 ### 1. Open file
 Open the script that you want to use.
 ### 2. Copy Code
