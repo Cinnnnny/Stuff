@@ -1,6 +1,5 @@
 # Stuff
-A repository with a bunch of cheats and websites to use in school when ur bored
-
+A repository with a bunch of cheats and websites to use in school when ur bored.
 
 <details><summary><h3>oh and</h3></summary>
 
