@@ -1,4 +1,4 @@
-## Making Bookmarks
+# Making Bookmarks
 Inside the "Bookmarks" folder, there are some scripts that can be saved as bookmarks and dont need a console to open (more user friendly). Only do this if you are on a personal computer, because it wont save when you go to a new school computer.
 ### 1. Locate Bookmark script
 Go to the script you want as a bookmark.
